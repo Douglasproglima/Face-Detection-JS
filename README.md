@@ -10,6 +10,9 @@ JS library of the Face API, built on Tensor Flow, was used to configure face det
 
 This design can be used with any webcam or mobile camera.
 
+## Library FaceApi
+https://justadudewhohacks.github.io/face-api.js/docs/index.html
+
 ## Server
 IDE Visual Studio Code is used and the option "Open with Live Server".
 
